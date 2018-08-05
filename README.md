@@ -16,4 +16,5 @@
 ### Tableau
 
 ## Data for the project was sourced using APIs from the US Census Bureau and the US Bureau of Labor Statistics.
-## Created a Linear and Random Forest Regression to establish the correlation between Poverty and Uninsurance and used matplotlib to draw ## scatter plots and histograms to visualize how the prediction relates to the actual data set. 
+## Created a Linear and Random Forest Regressions to establish the correlation between Poverty/Unemployment and Uninsurance. Used matplotlib to draw scatter plots and histograms to visualize how the prediction relates to the actual data set. 
+## Used Tableau to draw visualizations and show trends of the parameters over an 8 year time period(2008-2016).
